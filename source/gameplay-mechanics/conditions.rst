@@ -5,11 +5,9 @@ Conditions
 ======================
 
 Conditions alter a creature's capabilities in a variety of ways and can
-arise as a result of a spell, a class
-
-feature, a monster's attack, or other effect. Most conditions, such as
-:ref:`srd:blinded`, are impairments, but a few, such as :ref:`srd:invisible`, can be
-advantageous.
+arise as a result of a spell, a class feature, a monster's attack, or other effect.
+Most conditions, such as :ref:`srd:blinded`, are impairments, but a few,
+such as :ref:`srd:invisible`, can be advantageous.
 
 A condition lasts either until it is countered (the :ref:`srd:prone` condition is
 countered by standing up, for example) or for a duration specified by
